@@ -1,1 +1,1 @@
-Really simple script, just paste the script into ur inspect console, you can put anything in the string ('') anything u put inside of the string will be displayed in the webpage :) have fun
+Really simple script, just paste the script into ur inspect console, you can put anything in the string ('') anything u put inside of the string will be displayed in the webpage. And remember when u refesh the page the webpage will go back to normal, :) have fun
